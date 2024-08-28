@@ -14,5 +14,5 @@
 * [Подсчёт FPS во входном видеопотоке](https://github.com/mrMaliosi/Computer_Vision_programs/tree/master/Camera_FPS_counter)
 
 ### Сложные
-* [Определение фигур на доске](https://github.com/mrMaliosi/NSU_JavaLabs/tree/master/lab2_StackCalculator)
+* [Определение фигур на доске](https://github.com/mrMaliosi/Computer_Vision_programs/tree/master/Figure_on_board_identifier)
 
