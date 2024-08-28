@@ -15,4 +15,3 @@
 
 ### Сложные
 * [Определение фигур на доске](https://github.com/mrMaliosi/Computer_Vision_programs/tree/master/Figure_on_board_identifier)
-
